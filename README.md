@@ -18,4 +18,4 @@ It is a Practice project, Real data is not used in it.
 - Measurements may become unreliable at high cell density
 
 ## Output
-![Growth Curve](images/growth_curve.png)
+![Growth Curve](growth_curve.png)
